@@ -1,7 +1,4 @@
-.container{
-  width: 70%;
-  margin: 50px 460px;
-}
+
 
 .input{
   font-size: 25px;
@@ -28,6 +25,7 @@ body {
   .container {
     height: auto;
     width: 70%;
+    margin: 50px 460px;
     max-width: 1000px;
     min-width: 500px;
   }
