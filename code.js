@@ -8,12 +8,8 @@ const persons = [
     {name:'Athena (https://uqload.org/xopjmbgwnc1t.html)'},
     {name:'Dahmer (Lien de la page)'},
     {name:'Black Adam (https://sblongvu.com/e/czqd9p0hkvu0)'},
-    {name:'Wednesday (Lien de la page)'}*
+    {name:'Wednesday (Lien de la page)'},
     {name:'Mercredi (Lien de la page)'}
-
-
-
-
 ];
 
 const searchinput = document.getElementById('searchInput');
