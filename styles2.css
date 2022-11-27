@@ -23,3 +23,9 @@ body {
   background-color:white;
   background-image:url(../images/background.png);
   }
+
+.body {
+  @media screen and (max-width: 900px){
+    width: 500px;
+    }
+  }
