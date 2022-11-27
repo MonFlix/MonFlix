@@ -48,3 +48,116 @@ input[type="search"]{
     width: 500px;
   }
 }
+
+.header {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+.nav ul li {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+.ul li a {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+.ul li a:hover {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+.menu li {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+.menu li a {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+.form {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+.input {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+.global-container {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+
+
+
+body {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+header {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+nav ul li {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+ul li a {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+ul li a:hover {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+menu li {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+menu li a {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+form {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+input {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
+
+global-container {
+  @media screen and (max-width: 900px){
+    width: 500px;
+  }
+}
