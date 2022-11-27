@@ -88,18 +88,10 @@ body {
       }
     }
 
-  .logoenentete{
-    margin: auto;
-    }
-
-  @media print {
-    body {
-      color: yellow;
-    }
-  }
-
-  @media screen and (max-width:500px) {
-    body {
-      color: yellow;
-    }
+  .body {
+    height: auto;
+    width: 70%;
+    max-width: 1000px;
+    min-width: 500px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
   }
