@@ -11,7 +11,10 @@ const persons = [
     {name:'Wednesday (https://mon-flix.tk/wednesday.html)'},
     {name:'Mercredi (https://mon-flix.tk/wednesday.html)'},
     {name: 'Black Panther (https://uqload.org/q07ao200eds3.html)'},
-    {name:'Black Panther Wakanda For Ever (https://uqload.org/ej2yyguqw83i.html)'}
+    {name:'Black Panther Wakanda For Ever (https://uqload.org/ej2yyguqw83i.html)'},
+    {name:'A l ouest rien de nouveau(https://sblongvu.com/e/fugkxxomeeft)'}
+    {name:'All Of Us(https://mon-flix.tk/allofus.html)'}
+
 
 
 ];
