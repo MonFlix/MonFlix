@@ -1,5 +1,4 @@
 
-
 .input{
   font-size: 25px;
   width: 40%;
@@ -30,8 +29,8 @@ body {
   }
 
   .header {
-    height: auto;
     width: 70%;
+    margin: 50px 460px;
     max-width: 1000px;
     min-width: 500px;
   }
