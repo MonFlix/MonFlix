@@ -174,3 +174,11 @@ global-container {
   min-width: 500px;
   box-shadow: 0 0 15px rgba(0,0,0,0.5);
 }
+
+.input {
+  height: auto;
+  width: 70%;
+  max-width: 1000px;
+  min-width: 500px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
