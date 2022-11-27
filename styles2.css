@@ -29,3 +29,61 @@ body {
     width: 500px;
     }
   }
+
+.container {
+  @media screen and (max-width: 900px){
+    width: 500px;
+    }
+  }
+
+.input {
+  @media screen and (max-width: 900px){
+    width: 500px;
+    }
+  }
+
+.suggestion {
+  @media screen and (max-width: 900px){
+    width: 500px;
+    }
+  }
+
+.suggestion:hover {
+  @media screen and (max-width: 900px){
+    width: 500px;
+    }
+  }
+
+
+
+
+
+  body {
+    @media screen and (max-width: 900px){
+      width: 500px;
+      }
+    }
+  
+  container {
+    @media screen and (max-width: 900px){
+      width: 500px;
+      }
+    }
+  
+  input {
+    @media screen and (max-width: 900px){
+      width: 500px;
+      }
+    }
+  
+  suggestion {
+    @media screen and (max-width: 900px){
+      width: 500px;
+      }
+    }
+  
+  suggestion:hover {
+    @media screen and (max-width: 900px){
+      width: 500px;
+      }
+    }
