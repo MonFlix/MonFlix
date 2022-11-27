@@ -161,3 +161,8 @@ global-container {
     width: 500px;
   }
 }
+
+@media tv and (max-width: 500px){
+  #grand {display: none;}
+  #petit {display: block;}
+}
