@@ -9,7 +9,11 @@ const persons = [
     {name:'Dahmer (https://mon-flix.tk/dahmer.html)'},
     {name:'Black Adam (https://sblongvu.com/e/czqd9p0hkvu0)'},
     {name:'Wednesday (https://mon-flix.tk/wednesday.html)'},
-    {name:'Mercredi (https://mon-flix.tk/wednesday.html)'}
+    {name:'Mercredi (https://mon-flix.tk/wednesday.html)'},
+    {name: 'Black Panther (https://uqload.org/q07ao200eds3.html)'},
+    {name:'Black Panther Wakanda For Ever (https://uqload.org/ej2yyguqw83i.html)'}
+
+
 ];
 
 const searchinput = document.getElementById('searchInput');
