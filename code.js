@@ -14,7 +14,7 @@ const persons = [
     {name:'Black Panther Wakanda For Ever (https://uqload.org/ej2yyguqw83i.html)'},
     {name:'A l ouest rien de nouveau(https://sblongvu.com/e/fugkxxomeeft)'},
     {name:'All Of Us(https://mon-flix.tk/allofus.html)'},
-    {name:'Outer Banks()'}
+    {name:'Outer Banks(https://mon-flix.tk/outerbanks.html)'}
 
 
 
