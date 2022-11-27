@@ -92,4 +92,14 @@ body {
     margin: auto;
     }
 
+  @media print {
+    body {
+      color: yellow;
+    }
+  }
 
+  @media screen and (max-width:500px) {
+    body {
+      color: yellow;
+    }
+  }
