@@ -68,3 +68,6 @@ input[type="search"]{
     width: auto;
   }
 }
+.body{
+  width: 100000px;
+}
