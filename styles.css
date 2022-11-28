@@ -63,4 +63,8 @@ input[type="search"]{
   .body{
     width: auto;
   }
+  .body{
+    float: none;
+    width: auto;
+  }
 }
