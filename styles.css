@@ -73,6 +73,6 @@ input[type="search"]{
 }
 
 .positioned {
-  position: static;
+  position: center;
   background: yellow;
 }
