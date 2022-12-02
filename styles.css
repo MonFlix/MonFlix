@@ -71,3 +71,8 @@ input[type="search"]{
 .body{
   width: 100000px;
 }
+
+.positioned {
+  position: static;
+  background: yellow;
+}
