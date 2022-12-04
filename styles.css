@@ -75,3 +75,13 @@ input[type="search"]{
 .positioned {
   position: 35px 35px;
 }
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+}
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
