@@ -7,14 +7,19 @@ const persons = [
     {name:'BlackPanther Wakanda For Ever (https://uqload.org/ej2yyguqw83i.html)'},
     {name:'Athena (https://uqload.org/xopjmbgwnc1t.html)'},
     {name:'Dahmer (https://mon-flix.tk/dahmer.html)'},
-    {name:'Black Adam (https://sblongvu.com/e/czqd9p0hkvu0)'},
+    {name:'Black Adam (https://uqload.com/7usky268hrxv.html)'},
     {name:'Wednesday (https://mon-flix.tk/wednesday.html)'},
     {name:'Mercredi (https://mon-flix.tk/wednesday.html)'},
     {name: 'Black Panther (https://uqload.org/q07ao200eds3.html)'},
     {name:'Black Panther Wakanda For Ever (https://uqload.org/ej2yyguqw83i.html)'},
-    {name:'A l ouest rien de nouveau(https://sblongvu.com/e/fugkxxomeeft)'},
     {name:'All Of Us(https://mon-flix.tk/allofus.html)'},
-    {name:'Outer Banks(https://mon-flix.tk/outerbanks.html)'}
+    {name:'Outer Banks(https://mon-flix.tk/outerbanks.html)'},
+    {name:'Smile(https://uqload.com/s31n1xb41st2.html)'},
+    {name:'Spider Man Now Way Home(https://uqload.com/grtgvtfrp8dh.html)'},
+    {name:'Doctor Strange(https://cdn2.lazonee.com/5315a398dbda4467a0782045e8b331e6:fv7a2oaud85fms988fq9osqld7dd0ph60kb4aq2/DoctorStrange/02.mp4)'},
+    {name:'Joker(https://uqload.com/5twvd7src0za.html)'}
+
+
 
 
 
